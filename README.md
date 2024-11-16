@@ -1,3 +1,5 @@
+**_Fandy Galih Saputra_** / **_2205101071_**
+
 # SEMANTIC-HTML
 Latihan praktikum 1 SEMANTIC HTML
 
